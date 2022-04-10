@@ -4,6 +4,11 @@
 <details align="center">
   <summary><h3><em>Click For React Projects!</em></h3></summary>
 
+  <p><a href="https://sule-ss.github.io/random-user-app2/" target="_blank" rel="noreferrer">Random User App 2</a></p>
+  <p><a href="https://recipe-app-router.netlify.app/" target="_blank" rel="noreferrer">Recipe App</a></p>
+  <p><a href="https://shopping-store-site.netlify.app/" target="_blank" rel="noreferrer">Online Shopping Store with Router</a></p>
+  <p><a href="https://sule-ss.github.io/random-user-app/" target="_blank" rel="noreferrer">Random User App 1</a></p>
+  <p><a href="https://sule-ss.github.io/task-tracker/" target="_blank" rel="noreferrer">TASK TRACKER</a></p>
   <p><a href="https://sule-ss.github.io/todolist-with-react/" target="_blank" rel="noreferrer">Todo List</a></p>
   <p><a href="https://sule-ss.github.io/languages-cards/" target="_blank" rel="noreferrer">Languages Cards</a></p>
   <p><a href="https://sule-ss.github.io/populer-tour-places/" target="_blank" rel="noreferrer">Populer Tour Places</a></p>
@@ -38,7 +43,7 @@
   <p><a href="https://sule-ss.github.io/team-members-page/" target="_blank" rel="noreferrer">Team Members Page</a></p>
   <p><a href="https://sule-ss.github.io/sass-project/index.html" target="_blank" rel="noreferrer">Portfolio-SASS/SCSS</a></p>
   <p><a href="https://sule-ss.github.io/booklist-with-bootstrap/" target="_blank" rel="noreferrer">Book List-Bootstrap</a></p>
-  <p><a href="https://github.com/Sule-Ss/sass-basic-project" target="_blank" rel="noreferrer">SASS Basic Page</a></p>
+  <p><a href="https://sule-ss.github.io/sass-basic-project/" target="_blank" rel="noreferrer">SASS Basic Page</a></p>
   <p><a href="https://sule-ss.github.io/Google-Page-Clone/" target="_blank" rel="noreferrer">Google Page Clone</a></p>
   <p><a href="https://sule-ss.github.io/Website-Page-Design/" target="_blank" rel="noreferrer">Web Design</a></p>
   <p><a href="https://sule-ss.github.io/Checkout-Form/" target="_blank" rel="noreferrer">Checkout Form</a></p>

@@ -4,6 +4,8 @@
 <details align="center">
   <summary><h3><em>Click For React Projects!</em></h3></summary>
 
+  <p><a href="https://blog-app-milistone-project.netlify.app/" target="_blank" rel="noreferrer">Blog App Millistone Project</a></p>
+  <p><a href="https://movie-app-firebase-heroku.herokuapp.com/" target="_blank" rel="noreferrer">Movie App with Firebase and React</a></p>
   <p><a href="https://sule-ss.github.io/random-user-app2/" target="_blank" rel="noreferrer">Random User App 2</a></p>
   <p><a href="https://recipe-app-router.netlify.app/" target="_blank" rel="noreferrer">Recipe App</a></p>
   <p><a href="https://shopping-store-site.netlify.app/" target="_blank" rel="noreferrer">Online Shopping Store with Router</a></p>
@@ -13,6 +15,11 @@
   <p><a href="https://sule-ss.github.io/languages-cards/" target="_blank" rel="noreferrer">Languages Cards</a></p>
   <p><a href="https://sule-ss.github.io/populer-tour-places/" target="_blank" rel="noreferrer">Populer Tour Places</a></p>
   <p><a href="https://sule-ss.github.io/tic-tac-toe/" target="_blank" rel="noreferrer">Tic Tac Toe Game</a></p>  
+  <p><a href="https://movieapp-react-sule.netlify.app/" target="_blank" rel="noreferrer">React Movie App</a></p>
+  <p><a href="https://sule-recipe-app2.herokuapp.com/" target="_blank" rel="noreferrer">Recipe App 2</a></p>
+  <p><a href="https://sule-ss.github.io/weather-app/" target="_blank" rel="noreferrer">Weather App</a></p>
+  <p><a href="https://web-design-router.herokuapp.com/" target="_blank" rel="noreferrer">Web Deisgn Page</a></p>
+  <p><a href="" target="_blank" rel="noreferrer"></a></p>
 </details>
   <hr/>
     
@@ -32,6 +39,8 @@
   <p><a href="https://sule-ss.github.io/ToDo-List/" target="_blank" rel="noreferrer">ToDo List</a></p>
   <p><a href="https://sule-ss.github.io/Age-Calculator/" target="_blank" rel="noreferrer">Age Calculator</a></p>
   <p><a href="https://sule-ss.github.io/Calculator-Game/" target="_blank" rel="noreferrer">Calculator Game</a></p>
+  <p><a href="https://sule-ss.github.io/booklist-with-bootstrap/" target="_blank" rel="noreferrer">Book List-Bootstrap</a></p>
+   <p><a href="" target="_blank" rel="noreferrer"></a></p>
  
 </details>
   <hr/>

@@ -80,6 +80,6 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=sule-ss&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sule-ss&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sule-ss&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sule-ss&theme=chartreuse-dark&layout=compact&hide=jupyter notebook" alt="languages" width="50%" > </p>
 
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=sule-ss&label=Profile%20views&color=0e75b6&style=flat" alt="sule-ss" /> </h3>

@@ -65,11 +65,11 @@
   <p><a href="https://sule-ss.github.io/Parallax-WebSite/" target="_blank" rel="noreferrer">Parallax WebSite</a></p>
   <p><a href="https://sule-ss.github.io/Flexbox-With-MediaQuery/" target="_blank" rel="noreferrer">Flexbox With MediaQuery</a></p>
   <p><a href="https://sule-ss.github.io/Flowers-Flex-And-Float-Example/" target="_blank" rel="noreferrer">Flowers Flex and Float</a></p>
-  <p><a href="https://github.com/Sule-Ss/Hogwarts-Admission-Form" target="_blank" rel="noreferrer">Hogwarts Admission Form</a></p>
+  <p><a href="https://sule-ss.github.io/Hogwarts-Admission-Form/" target="_blank" rel="noreferrer">Hogwarts Admission Form</a></p>
   <p><a href="https://sule-ss.github.io/Pizza-Order-Form/" target="_blank" rel="noreferrer">Pizza Order Form</a></p>
   <p><a href="https://sule-ss.github.io/Sing-Up-Form/" target="_blank" rel="noreferrer">Sign Up Form</a></p>
   <p><a href="https://sule-ss.github.io/Netflix-Form-Page/" target="_blank" rel="noreferrer">NetFlix Form Page</a></p>
-  <p><a href="https://github.com/Sule-Ss/VoltranClub-Page" target="_blank" rel="noreferrer">VoltranClub Page</a></p>
+  <p><a href="https://sule-ss.github.io/VoltranClub-Page/" target="_blank" rel="noreferrer">VoltranClub Page</a></p>
   <p><a href="https://sule-ss.github.io/Web-Page-With-HTML-CSS/" target="_blank" rel="noreferrer">Web Page Design</a></p>
 </details>
   <hr/>

@@ -1,11 +1,5 @@
-<h2 align="center"> Hi 👋, I'm Şule! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-</p>
-<h3 align="center">    <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="100px" height="100px" />
-    <br />
-    <samp> <i>👒 I'm a Web Developer from Turkey. </i> </samp> <br />
-    <samp> 🌱 I’m currently learning ... </samp> <br />
-    <samp> 🐞 <i> The harder I go, The stronger I get. </i> </samp> <br /><br>
-  <samp> Ask me about <a href="https://github.com/Sule-Ss?tab=repositories">**projects!**</a></samp></h3>
+<h1 align="center">Hi 👋, I'm Şule</h1>
+<h3 align="center">I'm a hard-working full-stack developer from Turkey. <br> I am an individual with a keen eye for details, <br> seeking to advance my growing tech career as a Software Developer and <br> bringing my troubleshooting skills to engineer responsive solutions along with like-minded peers.<br> Ask me about <a href="https://github.com/Sule-Ss?tab=repositories">**projects!**</a></h3>
 
 <details align="center">
   <summary><h3><em>Click For React Projects!</em></h3></summary>
@@ -27,6 +21,16 @@
   <p><a href="https://web-design-router.herokuapp.com/" target="_blank" rel="noreferrer">Web Deisgn Page</a></p>
   <p><a href="" target="_blank" rel="noreferrer"></a></p>
 </details>
+  <hr/>
+  
+  <details align="center">
+  <summary><h3><em>Click For Django-React Projects!</em></h3></summary>
+  <p><a href="https://github.com/Sule-Ss/contact-app-django" target="_blank" rel="noreferrer">Contact App</a></p>
+  <p><a href="https://github.com/BedirhanTalhaKuzucu/MediumCloneProject" target="_blank" rel="noreferrer">Medium Site Clone Teamwork</a></p>
+  <p><a href="https://github.com/Sule-Ss/quizzapp-django-and-react" target="_blank" rel="noreferrer"></a>Quizz App</p>
+
+<p><a href="" target="_blank" rel="noreferrer"></a></p>
+  </details>
   <hr/>
     
 <details align="center">
@@ -77,8 +81,10 @@
   <details align="center">
   <summary><h3><em>Click For Django Projects!</em></h3></summary>
   <p><a href="https://sule-django-blog-app.herokuapp.com/" target="_blank" rel="noreferrer">Blog App</a></p>
-<p><a href="https://github.com/Sule-Ss/WeatherApp-Django" target="_blank" rel="noreferrer">Weather App with Django</a></p>
-
+  <p><a href="https://github.com/Sule-Ss/Flight-App-Django" target="_blank" rel="noreferrer">Flight App</a></p>
+  <p><a href="https://github.com/Sule-Ss/pizza-order-app-django-formSet" target="_blank" rel="noreferrer">Pizza Order App</a></p>
+  <p><a href="https://github.com/Sule-Ss/adminn-panel-customizing-django" target="_blank" rel="noreferrer">Admin Panel Customizing</a></p>
+  <p><a href="https://github.com/Sule-Ss/django-student-register" target="_blank" rel="noreferrer">Student Register and Todo</a></p>
 <p><a href="" target="_blank" rel="noreferrer"></a></p>
   </details>
   <hr/>
@@ -95,6 +101,6 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=sule-ss&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sule-ss&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sule-ss&theme=chartreuse-dark&layout=compact&hide=jupyter notebook" alt="languages" width="50%" > </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sule-ss&theme=chartreuse-dark&layout=compact&hide=jupyter%20notebook" alt="languages" width="50%" > </p>
 
 <h3 align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <br/> <img src="https://komarev.com/ghpvc/?username=sule-ss&label=Profile%20views&color=0e75b6&style=flat" alt="sule-ss" /> </h3>

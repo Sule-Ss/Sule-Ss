@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Şule</h1>
-<h3 align="center">Every day, I strive to improve myself by learning new technology. <br/>
+<h3 align="center">Every time, I strive to improve myself by learning new technology. <br/>
 I am a detail-oriented individual looking to improve my rising technological career as a Software Developer and use my debugging talents to build responsive solutions alongside like-minded colleagues. <br/> Please do not hesitate to help or ask questions on this lengthy voyage.<br> Ask me about <a href="https://github.com/Sule-Ss?tab=repositories">**projects!**</a></h3>
 
 <details align="center">
@@ -27,7 +27,7 @@ I am a detail-oriented individual looking to improve my rising technological car
   <details align="center">
   <summary><h3><em>Click For Django-React Projects!</em></h3></summary>
   <p><a href="https://github.com/Sule-Ss/contact-app-django" target="_blank" rel="noreferrer">Contact App</a></p>
-  <p><a href="https://github.com/BedirhanTalhaKuzucu/MediumCloneProject" target="_blank" rel="noreferrer">Medium Site Clone Teamwork</a></p>
+  <p><a href="https://github.com/Sule-Ss/MediumCloneProject" target="_blank" rel="noreferrer">Medium Site Clone Teamwork</a></p>
   <p><a href="https://github.com/Sule-Ss/quizzapp-django-and-react" target="_blank" rel="noreferrer"></a>Quizz App</p>
 
 <p><a href="" target="_blank" rel="noreferrer"></a></p>

@@ -100,8 +100,6 @@ I am a detail-oriented individual looking to improve my rising technological car
 <p>&nbsp</p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sule-ss&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sule-ss&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sule-ss&theme=chartreuse-dark&layout=compact&hide=jupyter%20notebook" alt="languages" width="50%" > </p>
 
 <h3 align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <br/> <img src="https://komarev.com/ghpvc/?username=sule-ss&label=Profile%20views&color=0e75b6&style=flat" alt="sule-ss" /> </h3>
